@@ -1,1 +1,1 @@
-# PictoChat.io
+# krolik-chat
